@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# pytest
+.pytest_cache/
+
+# ambientes virtuais
+.venv/
+venv/
+
+# editores / sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# dataset compactado (usamos só o .txt extraído)
+*.gz
